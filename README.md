@@ -66,7 +66,6 @@ This script is used to scrape product details from Amazon using Selenium. It rea
 
 ## Notes
 
-- It's important to note that web scraping can be against the terms of service of some websites. Make sure to review the website's terms of service before scraping any data.
 - The script uses Selenium with the Chrome web driver. If you prefer using a different browser, you can modify the script accordingly.
 - The script includes a delay of 1 second between visiting each product URL to avoid overloading the website. You can adjust this delay if needed.
 - In case a product URL is not available or cannot be scraped, the script will print a message indicating the issue.
